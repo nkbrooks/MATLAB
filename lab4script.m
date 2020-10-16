@@ -1,5 +1,3 @@
-% LAB 4, 09/17/19
-% ________________
 
 % 
 % 1. If b is a row or column vector and n is an index in the range 1:length(b), then
