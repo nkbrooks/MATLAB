@@ -1,6 +1,4 @@
-% Natalie Brooks - 116009829 
-% ENEE222 - Elements of Discrete Signal Analysis
-% Lab 05
+
 
 % PART TWO-----------------------------------------------------------------
 % Generating a square X-Y grid.
