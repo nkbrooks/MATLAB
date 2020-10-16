@@ -1,6 +1,4 @@
-%% Natalie Brooks
-% Elements of Discrete Signal Analysis
-% Lab Assignment 09
+
 
 %loading file
 file = 'audio09.wav'
