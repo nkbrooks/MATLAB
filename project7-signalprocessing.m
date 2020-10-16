@@ -1,6 +1,4 @@
-%% NATALIE BROOKS
-% ENEE222 - Elements of Discrete Signal Analysis
-% Laboratory 07
+
 %      { -sin(pi*t/2)+1  , for t in [0,1)
 %      s(t) = { -(t-2)^5     , for t in [1,3)
 %      { sin(pi*t/2)-1  , for t in [3,4)
