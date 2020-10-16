@@ -1,5 +1,4 @@
-%% Natalie Brooks - 116009829
-%% Lab Assignment 04
+
 
 % Loading the chirp.mat file.
 load chirp
