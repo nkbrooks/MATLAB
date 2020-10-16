@@ -1,6 +1,4 @@
-%% Natalie Brooks
-% ENEE222 - Elements of Discrete Signal Analysis
-% Lab Assignment 3
+
 
 S = [];
 T = [];
